@@ -1,3 +1,8 @@
+//function reverse(word){
+//const wordArray = word.split("")
+
+
+
 function reversedString(word) {
   return word.split("").reverse().join("");
 }
@@ -11,6 +16,9 @@ function isPalindrome(word) {
 
   /*
     Add your pseudocode here
+
+    REVERSE THE INPUT STRING
+  const reverseWord = reverse(word);
 
   if(word === reversedString) {
     console.log('It is a palindrome');
