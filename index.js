@@ -20,6 +20,11 @@ function isPalindrome(word) {
   }
 
 /*
+1.split string(split())
+2.reverse array(reverse())
+3.join array(join())
+4.use if statement
+5.Call function
 
 /* 
   Add written explanation of your solution here
