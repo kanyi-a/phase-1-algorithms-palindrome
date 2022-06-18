@@ -1,6 +1,8 @@
 //function reverse(word){
 //const wordArray = word.split("")
-
+//const reversedWordArray = wordArray.reverse();
+//const reverseWord = reversedWordArray.join("")
+//return reversedWord;
 
 
 function reversedString(word) {
